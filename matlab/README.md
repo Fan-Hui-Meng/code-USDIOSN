@@ -7,5 +7,5 @@
     Make sure you have installed the Curve Fitting Toolbox.
 
 ### Example:
-    Paste 'Main-1' in the Command Window of Matlab, and press 'Enter', you will get the first ten subfigures of FIGS34.
-    Paste 'Main-2' in the Command Window of Matlab, and press 'Enter', you will get the fitting results of three different Fitting Methods.
+    Paste 'Main1' in the Command Window of Matlab, and press 'Enter', you will get the first ten subfigures of FIGS34.
+    Paste 'Main2' in the Command Window of Matlab, and press 'Enter', you will get the fitting results of three different Fitting Methods.
