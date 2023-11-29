@@ -9,6 +9,6 @@ To run the code, please refer to the 'README.md' file in the python directory.
 
 In the Matlab version,  we also provide code to reproduce the above results.
 Additionally, we provide an example to show the fitted results of three different Fitting Methods.
-To run the code, please refer to the 'README.txt' file in the matlab directory.
+To run the code, please refer to the 'README.md' file in the matlab directory.
 
 The rest of the code and data will be made publicly available after the acceptance of the paper.
